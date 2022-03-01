@@ -1,0 +1,257 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The priviledges of the people, or, Principles of common right and freedome, briefely laid open and asserted in two chapters. I. Containing the distinct interests of king, Parliament and people; consisting in prerogative, priviledge and liberty (as they have formerly obtained in this nation.) II. Discovering the peoples right in choice, change, or regulation of governments or governours: together with the originall of kingly power, and other formes of government. / Propounded to the consideration, and published for the benefit of the people of England. By Jo. Warr.</title>
+            <author>Warr, John.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1649</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 28 KB of XML-encoded text transcribed from 7 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2012-10">2012-10 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A97203</idno>
+            <idno type="STC">Wing W946</idno>
+            <idno type="STC">Wing W947</idno>
+            <idno type="STC">Thomason E541_12</idno>
+            <idno type="STC">ESTC R38493</idno>
+            <idno type="EEBO-CITATION">99872508</idno>
+            <idno type="PROQUEST">99872508</idno>
+            <idno type="VID">164917</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A97203)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 164917)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 84:E541[12])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The priviledges of the people, or, Principles of common right and freedome, briefely laid open and asserted in two chapters. I. Containing the distinct interests of king, Parliament and people; consisting in prerogative, priviledge and liberty (as they have formerly obtained in this nation.) II. Discovering the peoples right in choice, change, or regulation of governments or governours: together with the originall of kingly power, and other formes of government. / Propounded to the consideration, and published for the benefit of the people of England. By Jo. Warr.</title>
+                  <author>Warr, John.</author>
+               </titleStmt>
+               <extent>[2], 11, [1] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by G. Dawson for Giles Calvert at the signe of the black spread Eagle at the west end of Pauls,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1649.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Variant (Wing W946): title page in another setting, probably earlier; line 2 reads "privliedges", line 11 begins "they hath", line 18 reads "By J.W.".</note>
+                  <note>Annotation on Thomason copy: "Feb: 5th 1648"; the "9" in the imprint has been crossed out.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+                  <note>W947 is identified as W946 on the UMI Thomason Tracts microfilm set.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Representative government and representation --  Early works to 1800.</term>
+               <term>Political science --  Early works to 1800.</term>
+               <term>Great Britain --  Politics and government --  1649-1660 --  Early works to 1800.</term>
+               <term>Great Britain --  Constitutional law --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-11</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-12</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-10</date>
+            <label>Holly Beeman</label>Sampled and proofread</change>
+         <change>
+            <date>2011-10</date>
+            <label>Holly Beeman</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2012-05</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:164917:1" rendition="simple:additions"/>
+            <p>
+               <hi>THE</hi> PRIVILEDGES OF THE PEOPLE, OR, Principles of Common Right and Free<g ref="char:EOLhyphen"/>dome, briefely laid open and aſſer<g ref="char:EOLhyphen"/>ted in two Chapters.
+<list>
+                  <item>I. <hi>Containing the diſtinct Intereſts of King, Parliament and Peo<g ref="char:EOLhyphen"/>ple; conſiſting in Prerogative, Priviledge and Liberty (as they have formerly obtained in this Nation.)</hi>
+                  </item>
+                  <item>II. <hi>Diſcovering the Peoples Right in Choice, Change, or Regula<g ref="char:EOLhyphen"/>tion of Governments or Governours: Together with the Ori<g ref="char:EOLhyphen"/>ginall of Kingly Power, and other Formes of Government.</hi>
+                  </item>
+               </list>
+            </p>
+            <p>Propounded to the Conſideration, and publiſhed for the benefit of the PEOPLE of <hi>ENGLAND.</hi>
+            </p>
+            <p>By <hi>Jo. Warr.</hi>
+            </p>
+            <q>
+               <bibl>
+                  <hi>Tacit.</hi>
+               </bibl>
+               <p>Principatus &amp; Libertas res olim diſſociabiles.</p>
+            </q>
+            <p>LONDON, Printed by <hi>G. Dawſon</hi> for <hi>Giles Calvert</hi> at the ſigne of the black ſpread Eagle at the weſt end of <hi>Pauls.</hi> 1649.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <div n="1" type="chapter">
+               <pb facs="tcp:164917:2"/>
+               <pb n="1" facs="tcp:164917:2"/>
+               <head>CHAP. I. <hi>Diſcovering the diſtinct Interests of King, Parliament, and People.</hi>
+               </head>
+               <div n="1" type="section">
+                  <head>SECT. I. <hi>Of Prerogative or Kingly Intereſt.</hi>
+                  </head>
+                  <p>
+                     <seg rend="decorInit">T</seg>He <hi>Intereſt</hi> of the <hi>King</hi> having advanced it ſelf in<g ref="char:EOLhyphen"/>to a Principle of <hi>Diſtinction, Separation,</hi> and <hi>Su<g ref="char:EOLhyphen"/>periority</hi> above the <hi>Intereſt</hi> of the <hi>People,</hi> is called <hi>Prerogative</hi> or <hi>Kingly greatnes;</hi> which is a <hi>Tu<g ref="char:EOLhyphen"/>ber</hi> or <hi>exuberance</hi> growing out from the <hi>ſtock</hi> of the <hi>Com<g ref="char:EOLhyphen"/>mon wealth,</hi> partly through the weaknes and indulgence of <hi>People</hi> to their <hi>Kings</hi> and <hi>Rulers,</hi> (which hath been moſt e<g ref="char:EOLhyphen"/>minent in the Engliſh Nation) and partly through the <hi>am<g ref="char:EOLhyphen"/>bition</hi> and <hi>luſt</hi> of <hi>Princes</hi> themſelves, who not conſidering their <hi>greatneſſe</hi> as in a principle of <hi>union</hi> with the <hi>People,</hi> in a way of tendencie and ſubſerviencie to the <hi>Peoples</hi> good, have heightned themſelves beyond their due <hi>bounds,</hi> and framed a <hi>diſtinct Intereſt</hi> of their own, pretendedly <hi>Supream?</hi> To ad<g ref="char:EOLhyphen"/>vance this <hi>Intereſt,</hi> Kings and Princes have <hi>politiques,</hi> and <hi>Principles</hi> of their own, and certain <hi>State-maxims,</hi> whereby they ſoare a loft, and walk in a diſtinct way of oppoſition to the <hi>Rights</hi> and <hi>Freedomes</hi> of the <hi>People;</hi> all which you may ſee in <hi>Machiavils Prince.</hi>
+                  </p>
+                  <p>Hence it is that <hi>Kings</hi> have been always jealous of the peo<g ref="char:EOLhyphen"/>ple, and have held forth their own <hi>Intereſt,</hi> as a <hi>Myſtery</hi> or <hi>Riddle,</hi> not to be pried into by ordinary underſtandings: And
+<pb n="2" facs="tcp:164917:3"/>the <hi>Proſelytes</hi> of this corrupt and <hi>tyrannous Intereſt</hi> have al<g ref="char:EOLhyphen"/>wayes ſerved it up, as a <hi>Sacred</hi> thing, a thing as much <hi>above</hi> our <hi>reach,</hi> as it is truly and indeed <hi>againſt</hi> our <hi>Freedomes.</hi>
+                  </p>
+                  <p>So that <hi>Ignorance</hi> being the <hi>Mother</hi> and <hi>Nurſe</hi> of <hi>Bondage,</hi> ſuch <hi>Principles</hi> have been watchfully obſerved, as have uſhe<g ref="char:EOLhyphen"/>red in any <hi>Light,</hi> or diſcovery of the corruptneſſe of the <hi>Pre<g ref="char:EOLhyphen"/>rogative Intereſt;</hi> hence is it that the <hi>Expoſitions of Pareus</hi> upon <hi>Rom.</hi> 13. were cenſured and condemned by the <hi>Court Party,</hi> as giving too much <hi>Liberty</hi> to <hi>Subjects,</hi> to reſiſt their <hi>Kings:</hi> and the <hi>Genevah</hi> notes upon <hi>Exod.</hi> 1. <hi>v.</hi> 17. were diſliked by <hi>King James,</hi> becauſe they countenanced the <hi>Mid<g ref="char:EOLhyphen"/>wives diſobedience</hi> to the <hi>King;</hi> not, but that the <hi>thing com<g ref="char:EOLhyphen"/>manded</hi> was unlawfull, but it was interpreted to open too great a <hi>gap</hi> to the ruine of this <hi>Intereſt,</hi> of which wee now ſpeak</p>
+                  <p>And yet ſome have not been wanting, who in times of greateſt hazard have adventured their own <hi>Freedomes</hi> as a <hi>Sa<g ref="char:EOLhyphen"/>crifice</hi> to the <hi>Publike;</hi> and have made forth diſcoveries of the corruption &amp; rottenes of this <hi>oppreſſive Prerogative Intereſt,</hi> upon conſcientious grounds of <hi>Publike Freedome.</hi> Though this hath been cenſured by the <hi>Potencie</hi> of that <hi>Intereſt</hi> which it did oppoſe, as an <hi>offence</hi> no leſſe then <hi>piacular;</hi> And their <hi>Perſons</hi> loaded with calumnies of all ſorts, as being a <hi>fa<g ref="char:EOLhyphen"/>ction</hi> or <hi>Party of Levellers,</hi> as <hi>King James</hi> cals ſome in his <hi>Star-chamber Speech.</hi>
+                  </p>
+                  <p>And though we may poſſibly ſuppoſe that the corruption of this <hi>Intereſt,</hi> may be in ſome meaſure diſcovered to thoſe that uſe it, and that <hi>Kings</hi> themſelves may ſuck in ſome <hi>prin<g ref="char:EOLhyphen"/>ciples</hi> of common Right and Freedome; ſome glimmerings whereof, ſeem to ſparkle in the <hi>writings of King James,</hi> yet their <hi>judgements</hi> are ſo over clouded by their <hi>Intereſts,</hi> that they doe not onely blinde <hi>themſelves,</hi> but <hi>hoodwink others,</hi> and all to eſtabliſh <hi>that,</hi> which God himſelf purpoſes to de<g ref="char:EOLhyphen"/>ſtroy and overthrow.</p>
+                  <p>For when <hi>Principles</hi> of <hi>light</hi> and <hi>knowledge</hi> ſhall be advan<g ref="char:EOLhyphen"/>ced amongſt <hi>men,</hi> they ſhall then ſcorn to be ſubject to the corrupt Wils and Luſts of others: they ſhall know no <hi>Policie,</hi> but <hi>integritie</hi> and <hi>honeſtie; Falſe intereſts</hi> ſhall tumble down
+<pb n="3" facs="tcp:164917:3"/>
+                     <hi>truth</hi> and <hi>righteouſneſſe</hi> take place, and <hi>Prerogative</hi> be wor<g ref="char:EOLhyphen"/>ried, as an Enemy to Freedome.</p>
+                  <p>And if this were made out to <hi>Princes themſelves,</hi> they would not onely <hi>prophane</hi> their own <hi>myſteries,</hi> and make them <hi>common,</hi> but ſacrifice their <hi>greatneſſe</hi> to the <hi>light</hi> of <hi>Truth,</hi> (which hath ſo often ſacrificed <hi>Truth</hi> to <hi>it ſelf</hi>) and ſtudy which way to advance the <hi>Peoples Intereſt,</hi> though in oppoſi<g ref="char:EOLhyphen"/>tion to <hi>their own.</hi> And if this <hi>ſelf-denying ſpirit</hi> were in them, and the <hi>power</hi> of <hi>Truth,</hi> the rough way of worldly <hi>force</hi> and <hi>ſpoile</hi> would be prevented, and the <hi>work</hi> rendered more eaſie to <hi>themſelves</hi> and <hi>others.</hi>
+                  </p>
+               </div>
+               <div n="2" type="section">
+                  <head>SECT. II. <hi>Of Priviledge, or Parliament Interest.</hi>
+                  </head>
+                  <p>IF the voice of <hi>Common Right or Freedome</hi> could be heard amongſt <hi>Men,</hi> the world would not be ſo deeply engaged in <hi>factions,</hi> and diſtinct <hi>Parties,</hi> as they are; but this is the miſery, The <hi>mindes</hi> of men being prejudiced with corrupt <hi>Intereſts</hi> of one ſort or other, and pertinaciouſly adhearing to them, doe contribute their utmoſt aſſiſtance to maintain them, partly through the inbred corruption within men, and partly through thoſe provocations which (in the heat of conteſt) they meet with, from <hi>Intereſts</hi> which are at variance with their <hi>own</hi> (for even <hi>truth</hi> it ſelf will juſtle its adverſarie in a narrow paſſe) Hence it is that ſome are ſaid to be for the <hi>King,</hi> ſome for the <hi>Parliament,</hi> ſome for the <hi>Army.</hi>
+                  </p>
+                  <p>But is <hi>Truth</hi> divided? Is there not one common principle of <hi>Freedome,</hi> which (if diſcovered) would reconcile all; Tis true this Principle may be weakly and imperfectly managed by the <hi>Children</hi> thereof, but the miſcarriage (whether reall or ſup<g ref="char:EOLhyphen"/>poſed) is not to be charged upon the <hi>Principle</hi> it ſelf; And yet this is the practiſe of corrupt men, who take advantage from common frailties in the proſecution of <hi>just</hi> things, to cry down the things <hi>Themſelves,</hi> and ſo to ſtrengthen their adhe<g ref="char:EOLhyphen"/>ſion to their own <hi>Interests,</hi> though never ſo corrupt.</p>
+                  <p>The pureſt civill <hi>intereſt,</hi> is the Peoples <hi>Freedome,</hi> which
+<pb n="4" facs="tcp:164917:4"/>may be cruſhed by <hi>Priviledge</hi> as well as <hi>Prerogative;</hi> For Prerogative and Priviledge (in its uſuall acceptation) are neer of kin; and it is poſſible for a <hi>Societie</hi> to exerciſe <hi>Tyrannie</hi> as well as a ſingle <hi>Perſon.</hi> What hath been ſpoken of <hi>Preroga<g ref="char:EOLhyphen"/>tive,</hi> may be affirmed of <hi>Priviledge,</hi> the Impe thereof; For <hi>Man</hi> being naturally of an aſpiring temper, mannages all ad<g ref="char:EOLhyphen"/>vantages to ſet up himſelf, and to this the <hi>Peoples election</hi> is a faire <hi>temptation,</hi> and though the gentleneſſe of the phraſe doth <hi>word</hi> the Parliament, To <hi>ſerve</hi> for their Country, yet tis ſometimes in the ſame kinde of oratory, as the <hi>Pope</hi> is the ſer<g ref="char:EOLhyphen"/>vant of the <hi>Church,</hi> whileſt he exerciſeth rule and domina<g ref="char:EOLhyphen"/>tion over it.</p>
+                  <p>Priviledge hath formed it ſelf into a diſtinct <hi>Intereſt,</hi> as well as <hi>Prerogative,</hi> and hath forgot its originall and <hi>fire,</hi> thinks it ſelf compleat without ſuperior or equall: Thus hath it broke off it ſelf, from its <hi>ſtock,</hi> and like a <hi>ſuccour</hi> draws nouriſhment away from the true <hi>branches;</hi> ſo that, where Prerogative and Priviledge are in a thriving poſture, the <hi>Freedomes</hi> of that <hi>People</hi> are underlings and leane as being crop'd on both ſides.</p>
+                  <p>When things doe continue in their proper <hi>place</hi> and order, they ſtand in God, and are uſefull to thoſe ends for which he hath appointed them; but when they warpe, they turn aſide from God; and when they leave their ſtation, and would be of themſelves (as Lucifer) they fall down into Hell and a con<g ref="char:EOLhyphen"/>dition of darkneſſe; The way to advance <hi>Priviledge</hi> is to keep it within its due bounds.</p>
+                  <p>Tis true, ſomethings doe naturally aſcend, but tis to their own place and Center, and when they are there, they are cloa<g ref="char:EOLhyphen"/>thed with <hi>Majeſtie</hi> and glory. Every thing is beautifull in its place and ſeaſon: There is a beauty in <hi>Priviledge</hi> (thus conſidered) as well as in <hi>Libertie.</hi>
+                  </p>
+                  <p>To aſcend beyond due and meaſured bounds, is no way <hi>honourable</hi> but <hi>monſtrous,</hi> as if the Feet ſhould grow out of the Thighs, or the Hands upon top of the Head; this is a diſ<g ref="char:EOLhyphen"/>order and confuſion, and thus Pride is the wombe of dark<g ref="char:EOLhyphen"/>neſſe, which may be verified in <hi>Priviledge</hi> as well as <hi>Preroga<g ref="char:EOLhyphen"/>tive.</hi>
+                  </p>
+                  <p>Tis true, Priviledge hath a ſtronger plea, as being founded
+<pb n="5" facs="tcp:164917:4"/>upon <hi>Election</hi> and <hi>Conſent,</hi> but this will not juſtifie the <hi>Abuſe</hi> thereof: for when <hi>Priviledge</hi> ſoares high, the <hi>people</hi> ſome<g ref="char:EOLhyphen"/>times follow it, either through ignorance of its <hi>Nature</hi> or bounds, or elſe that they may not loſe the benefit of that, which is truly ſo called, and is uſefull in its place. For as <hi>Wa<g ref="char:EOLhyphen"/>ter</hi> aſcends for the continuation of it ſelfe, ſo the intereſt be<g ref="char:EOLhyphen"/>tween <hi>Parliament</hi> and people, muſt not bee diſcontinued. And yet this motion on the peoples part is <hi>violent,</hi> not <hi>natu<g ref="char:EOLhyphen"/>rall:</hi> for <hi>Liberty</hi> ſhould not aſcend to <hi>Priviledge,</hi> but <hi>Pri<g ref="char:EOLhyphen"/>viledge</hi> ſhould ſtoop downe to <hi>Liberty,</hi> as its <hi>Center</hi> and <hi>Reſt.</hi>
+                  </p>
+                  <p>
+                     <hi>Priviledges</hi> may ſometimes mount ſo high, that <hi>Liberty</hi> cannot onely not follow, but is endangered by it. In this caſe <hi>Priviledge</hi> diſcontinues it ſelfe, and <hi>Liberty</hi> caſts off <hi>homage</hi> and ſubjection thereto, ſuch <hi>Priviledge</hi> is to be lop'd off as a burden to <hi>Freedome.</hi>
+                  </p>
+                  <p>True priviledge of <hi>Parliament</hi> is this, in a principle of <hi>
+                        <g ref="char:V">Ʋ</g>
+                        <g ref="char:EOLhyphen"/>nion</hi> with the peoples <hi>Right,</hi> an <hi>Immunity</hi> and <hi>Freedome</hi> to mind juſt things, and to proſecute impartiall grounds of righ<g ref="char:EOLhyphen"/>tcouſneſſe and <hi>Truth,</hi> other priviledges may be pared away, as bearing no proportion with their <hi>End,</hi> but this ſhall conti<g ref="char:EOLhyphen"/>nue as ſubſervient unto <hi>Freedome.</hi>
+                  </p>
+               </div>
+               <div n="3" type="section">
+                  <head>SECT. 3. <hi>Of Liberty, or the Peoples Intereſt.</hi>
+                  </head>
+                  <p>IN every <hi>Common-wealth</hi> the <hi>Intereſt</hi> of the <hi>People</hi> is the <hi>True</hi> and <hi>Proper Intereſt</hi> of that <hi>Common-wealth;</hi> other <hi>Intereſts</hi> have advanced themſelves, pretendedly to exalt <hi>This,</hi> and yet being once gotten into the <hi>Throne of Rule,</hi> they labour nothing leſſe, or rather indeed they bend their ut<g ref="char:EOLhyphen"/>moſt endeavour to overthrow <hi>It.</hi>
+                  </p>
+                  <p>
+                     <hi>Prerogative</hi> and <hi>Priviledge Intereſts,</hi> (as formerly explai<g ref="char:EOLhyphen"/>ned in their corrupt notions) are altogether inconſiſtent with <hi>True Freedome:</hi> Hence it is that there is an irreconcileable conteſt between <hi>Them,</hi> which will never ceaſe, till either <hi>Prerogative</hi> and <hi>Priviledge</hi> be ſwallowed up in <hi>Freedome,</hi>
+                     <pb n="6" facs="tcp:164917:5"/>or <hi>Liberty</hi> it ſelfe be led <hi>captive</hi> by <hi>Prerogative.</hi> He which hath the worſt <hi>Cauſe</hi> may ſometimes have the beſt <hi>Succeſſe,</hi> (for Time and Chance happens to all) and thus <hi>Liberty</hi> may be worſted by <hi>Priviledge,</hi> as having leſſe ſpecious advantages in the Fleſh. For true <hi>Freedome</hi> is in the <hi>Mind,</hi> and its <hi>Proſe<g ref="char:EOLhyphen"/>lytes</hi> are but few. Moſt men give up themſelves to the Idoll-Intereſts of <hi>Prerogative and Priviledge,</hi> as being more taking with fleſh and blood.</p>
+                  <p>And when <hi>Liberty</hi> is once put to the rout, it is not eaſie to rally again, or to redeem it ſelfe, for the darkeſt Dungeon is its <hi>Priſon,</hi> 'tis chained with oathes and ſervile bonds, yea and the ſtrong bolts of humane <hi>Lawes</hi> doe keep it in ſubjection. Thus are all things made ſure, with a <hi>Grave-ſtone,</hi> a <hi>Seale,</hi> and a <hi>Watch,</hi> and oppreſſion rides in <hi>triumph</hi> upon the backes of the people.</p>
+                  <p>All imaginary gaps for the re-entrance of <hi>Freedome,</hi> being thus ſtop'd up, it were impoſſible for it to ariſe from the dead, or to recover its <hi>true</hi> and proper ſtate, if God himſelfe did not appeare, and laugh the counſels of men to ſcorn, yea and open the Iron gates, and knock off the bolts, and lead forth <hi>Free<g ref="char:EOLhyphen"/>dome</hi> to open view, as the <hi>Angel</hi> did <hi>Peter.</hi>
+                  </p>
+                  <p>In this deſigne <hi>God</hi> co-operates with <hi>Man,</hi> and makes <hi>him</hi> inſtrumentall in the work, by clearing his principles, and ſtir<g ref="char:EOLhyphen"/>ring up his ſpirit. There are ſome ſparkes of <hi>Freedome</hi> in the mindes of moſt, which ordinarily lye deep, and are covered in the <hi>Darke,</hi> as a ſpark in the aſhes. This ſpark is the image of <hi>God</hi> in the mind, which is indeed the <hi>Man,</hi> (for the divine Image makes the <hi>Man.</hi>) This <hi>Man</hi> is hid in moſt perſons, onely the <hi>Tyrant,</hi> the <hi>Beaſt,</hi> or the ſlaviſh principle appeares, and the whole bulk is hurried about by the <hi>motion</hi> of that principle, and the <hi>Man</hi> within us ſwimmes with the ſtream.</p>
+                  <p>But <hi>God</hi> favours all <hi>weak</hi> things, and hath a ſpeciall regard to <hi>tender ones,</hi> when under darkneſſe and oppreſſion. And in order hereunto he layes the Axe to the root of the <hi>Tree,</hi> and ſtrengthens our weake principle, he layes the foundation of <hi>Freedome</hi> within us, and ſo proceeds to blow up the fire, till the <hi>roome</hi> be too hot for unrighteouſneſſe and wrong.</p>
+                  <p>Thus <hi>Tyranny</hi> being driven out of the <hi>Spirit,</hi> or <hi>Mind</hi> (its
+<pb n="7" facs="tcp:164917:5"/>ſureſt hold, its Metropolis, or Citie of Refuge) 'tis hunted too and fro like a beaſt of <hi>prey.</hi> Neither is this a rare thing, but according to the uſuall proceedings of God in the World, who <hi>ſpoyles the Spoyler,</hi> and puniſhes oppreſſion in <hi>Methodes</hi> of its owne, that <hi>Men</hi> may ſee and admire his Greatneſſe and Power.</p>
+                  <p>Be <hi>wiſe</hi> now therefore, O yee <hi>Kings,</hi> be inſtructed O yee <hi>Iudges</hi> of the earth. Moſt of your deſignes are founded upon <hi>Selfe,</hi> and are againſt the <hi>Lord</hi> you eſtabliſh <hi>your ſelves</hi> and your own <hi>greatneſſe;</hi> your hands are againſt every one, and every ones hands againſt you, you have led <hi>Liberty</hi> captive. 'Tis the voyce of God to you, <hi>Let my oppreſſed goe free.</hi> Some of you have allowed a <hi>Mock freedom</hi> to <hi>Liberty,</hi> your priſo<g ref="char:EOLhyphen"/>ner, when you could keep it cloſe no longer, you have ſent it abroad, but with <hi>priſon garments,</hi> ſome badges of <hi>Slavery</hi> have remained upon it; no portion of <hi>Freedome</hi> hath been wrung from you, but through <hi>exigence</hi> or <hi>neceſſity.</hi> Thus have you demeaned your ſelves, as if the <hi>people</hi> had been made for <hi>you,</hi> not <hi>you</hi> for the people. For theſe things doth God a<g ref="char:EOLhyphen"/>riſe, and the day of your <hi>viſtration</hi> is come.</p>
+                  <p>For why? 'Tis not poſſible for a people to be too free. True <hi>Liberty</hi> hath a cleare light <hi>Principle</hi> or <hi>Rule,</hi> and a large compaſſe, a ſpacious walk, 'tis not limited or circumſcribed, but by the bounds of righteouſneſſe. <hi>Liberty</hi> is the daugh<g ref="char:EOLhyphen"/>ter of <hi>Truth</hi> and <hi>Righteouſneſſe,</hi> and hath <hi>Light</hi> within it, as the Sun, other lights are borrowed from it. <hi>Tyranny</hi> is as a <hi>Clog,</hi> or an <hi>Eclip<gap reason="illegible" resp="#UOM" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>e</hi> to <hi>Freedome.</hi> God ſees good that <hi>Liberty</hi> ſhould recover but by degrees, that ſo the world may be ballanced with light and knowledge, according to the ad<g ref="char:EOLhyphen"/>vance thereof, and be more conſiderate in her <hi>actings.</hi> The dee<g ref="char:EOLhyphen"/>per the <hi>Foundation,</hi> the ſurer the <hi>Work. Laberty</hi> in its full ap<g ref="char:EOLhyphen"/>pearance would darken the eye newly recovered from blind<g ref="char:EOLhyphen"/>neſſe, the principles thereof are infuſed to us by degrees, that our heads may be <hi>ſtrengthened</hi> (not overturned) by its <hi>In<g ref="char:EOLhyphen"/>fluence.</hi>
+                  </p>
+               </div>
+            </div>
+            <div n="2" type="chapter">
+               <pb n="8" facs="tcp:164917:6"/>
+               <head>CHAP. II. <hi>Of the Peoples Right in the Choyce, Change, or Regulation of Government, together with the originall of Kingly Power, and other Formes of Government.</hi>
+               </head>
+               <p>ALL <hi>Governments</hi> being <hi>fundamentally</hi> (as to Man) ſeated in the <hi>People,</hi> which <hi>Maxime</hi> is ſufficiently ſpoken to of late. The inhabitants of ſeverall <hi>Countries,</hi> for the equall diſtribution of <hi>Juſtice</hi> to the whole, have voluntarily ſubmitted to ſeverall <hi>Adminiſtrations</hi> and <hi>Formes</hi> of <hi>Government,</hi> either under <hi>one</hi> or <hi>many</hi> Rulers: ſo that <hi>Election,</hi> or <hi>Conſent</hi> (ſetting aſide Titles by <hi>Conqueſt</hi>) are the proper ſource and <hi>Fountain</hi> of all <hi>Juſt Governments.</hi> Hence it is that the power of <hi>Rulers</hi> is but <hi>Miniſteriall,</hi> and in order to the peoples good, which hath given occaſion to that known Maxime, <hi>That the ſafty of the people is the ſupream Law.</hi>
+               </p>
+               <p>From hence wee may ſee the <hi>Reaſon,</hi> why ſome Govern<g ref="char:EOLhyphen"/>ments are <hi>more</hi> or <hi>leſſe Free, viz.</hi> according to the prudence or neglect of <hi>Aunceſtors</hi> in bargaining with the <hi>Princes,</hi> and ſetting limits to their <hi>Power.</hi> Some have (as it were) given up themſelves to the Wils of their <hi>Princes,</hi> and out of confidence of their integritie have left them to themſelves, not conſide<g ref="char:EOLhyphen"/>ring, that juſt men are liable to temptations, when they are in place and power; which if it were poſſible for them to avoid, yet Juſtice is not <hi>hereditary,</hi> nor goes by diſcent. Some <hi>Na<g ref="char:EOLhyphen"/>tions</hi> having been pinched with this inconvenience, have after<g ref="char:EOLhyphen"/>wards ſet Bounds and Lawes to their <hi>Rulers,</hi> according as <hi>Tully</hi> doth excellently deſcribe it. Lib. 2. de offic. <hi>Eadem conſtituendarum legum fuit cauſa, quae Regum, Jus enim ſem<g ref="char:EOLhyphen"/>per quaſitum eſt aequabile, neque aliter eſſet Jus, id ſi ab uno
+<pb n="9" facs="tcp:164917:6"/>juſt, &amp; bono viro conſequebantur, eo erant contenti, cum id minus contingeret, Leges ſunt inventae, quae cum omni<g ref="char:EOLhyphen"/>bus temper una &amp; eadem voce loquerentur.</hi>
+               </p>
+               <p>
+                  <hi>Engliſhed thus,</hi> There is the ſame reaſon for Laws, as there was for Kings, for People have alwayes ſought after Right, or an equall diſt<gap reason="illegible" resp="#UOM" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>bu<g ref="char:EOLhyphen"/>tion of things, which if they did obtain from one juſt and good man, they were content therewith; but when they failed thereof, Laws were found out, which ſpake one and the ſame thing to all men.</p>
+               <p>Thoſe <hi>Nations</hi> which have been moſt ſtrict in preſcribing ſuch <hi>Rules,</hi> are moſt <hi>Free,</hi> unle<gap reason="illegible" resp="#UOM" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>e in proceſſe of time, through the oſcitancie of the people, <hi>Princes</hi> have trampled upon their bounds, and made them common; and in this caſe, as good none at all, as not obſerved.</p>
+               <p>Though then Governments have been diverſifyed accor<g ref="char:EOLhyphen"/>ding to the different tempers and apprehenſions of their <hi>Founders,</hi> the <hi>People;</hi> yet the <hi>Riſe</hi> of them all, is <hi>One</hi> and the ſame: <gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>o that what <hi>Tully</hi> affirmes of the originall of <hi>Monar<g ref="char:EOLhyphen"/>chy,</hi> or <hi>Kingly Government,</hi> may be ſaid of all the reſt, his words are theſe, lib. 2. de Offic. Apud majores noſtros fru<g ref="char:EOLhyphen"/>endae juſtitiae cauſa videntur olim bene morati Reg<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>s conſtitu<g ref="char:EOLhyphen"/>ti: nam cum premerentur olim multitudo ab lis qui majores opes habebant, ad unum aliquem confugiebant virtutem prae<g ref="char:EOLhyphen"/>ſtantem, qui cum prohiberet injuria tenuiores aequitate con<g ref="char:EOLhyphen"/>ſtituenda, ſummos cum infimis pari jure retinebat. The effect, of which in Engliſh is this, <hi>Our Anceſtors firſt appointed Kings for the adminiſtration of juſtice: For when the multi<g ref="char:EOLhyphen"/>tude was oppreſſed by great and mighty men, they preſently addreſſed themſelves to ſome one eminent and vertuous man, who defended the poore from wrong, and kept both poor and rich within the bounds of Equity.</hi> An inſtance of this kinde wee have in <hi>Herod: Clio,</hi> where the <hi>Medes</hi> revolting from the <hi>Aſ<g ref="char:EOLhyphen"/>ſyrians,</hi> choſe one <hi>Deioces</hi> for their King, a man of ſuppoſed ſtrictneſſe and <hi>Equity</hi> in preventing diſorders and abuſes a<g ref="char:EOLhyphen"/>mongſt
+<pb n="10" facs="tcp:164917:7"/>them. But this remedy in time proved as bad as the diſeaſe, ſo that people were enforced to ſeek protection under <hi>ſeverall</hi> Rulers, which they miſſed under <hi>One.</hi> Hence it came to paſſe that the <hi>Romans</hi> baniſhed their <hi>King</hi> and his <hi>Govern<g ref="char:EOLhyphen"/>ment</hi> together, and ſubmitted themſelves to another <hi>Forme.</hi>
+               </p>
+               <p>But at firſt they which ſubject themſelves to the govern<g ref="char:EOLhyphen"/>ment of <hi>One,</hi> may by the ſame reaſon ſubmit to <hi>many,</hi> which is Ariſtocracie, or may alter their government from one <hi>Form</hi> to another: For they that <hi>chooſe</hi> may <hi>change,</hi> provided it bee upon juſt and valuable grounds. Famous was the diſpute had before <hi>Octavius Caeſar</hi> by two of his <hi>Favourites</hi> and <hi>Coun<g ref="char:EOLhyphen"/>cellors,</hi> about <hi>continuance</hi> or <hi>change</hi> of <hi>Monarchy,</hi> of which you may read in <hi>Dion. lib.</hi> 52. The ſtory is this, When <hi>Octa<g ref="char:EOLhyphen"/>vius Caeſar</hi> had by the Armes and ſucceſſes of his predeceſ<g ref="char:EOLhyphen"/>ſors and his own, reduced the world to <hi>peace,</hi> and made a compleat conqueſt of the great known part thereof, hee tooke counſell with <hi>Agrippa</hi> and <hi>Mecoenas,</hi> two of his intimate friends, whether he ſhould maintaine the <hi>Empire</hi> and <hi>Mo<g ref="char:EOLhyphen"/>narchy</hi> in his own hands, or reſigne it to the Senate and peo<g ref="char:EOLhyphen"/>ple of <hi>Rome; Agrippa</hi> makes an eloquent Oration <hi>againſt Monarchy,</hi> perſwading him to ſurrender up the <hi>Government</hi> into the <hi>hands</hi> of the <hi>Senate.</hi> On the other ſide, <hi>Mecoenas</hi> perſwades the contrary, and pleads for <hi>Monarchy,</hi> whoſe counſell was followed by <hi>Caeſar,</hi> yet ſo, as that <hi>Agrippa</hi> was ſtill honorably entertained and reſpected by him. From which Story we may obſerve two things.</p>
+               <p n="1">1. That <hi>Anti-monarchicalnes</hi> is no crime at all, but a diffe<g ref="char:EOLhyphen"/>rence in judgement about an <hi>Externall Forme</hi> of <hi>Civill</hi> go<g ref="char:EOLhyphen"/>vernment: Yea <hi>great Stateſmen</hi> (ſuch as <hi>Agrippa</hi>) have gi<g ref="char:EOLhyphen"/>ven in their judgements freely <hi>againſt Monarchical govern<g ref="char:EOLhyphen"/>ment,</hi> as <hi>Agrippa</hi> here did.</p>
+               <p n="2">2. That to perſwade and endeavour the alteration of <hi>Go<g ref="char:EOLhyphen"/>vernments</hi> from one <hi>form</hi> to another, hath been the ſubject of the diſcourſe and action of <hi>wiſemen,</hi> as we ſee here in <hi>Agrippa.</hi>
+               </p>
+               <p>And though there may be a beauty in <hi>Monarchy,</hi> (duely cir<g ref="char:EOLhyphen"/>cumſcribed) as well as in other forms of Government, yet ſuch
+<pb n="11" facs="tcp:164917:7"/>caſes may ſometimes fall out, when Reaſon and Judgement may not onely call for, but enforce a <hi>change;</hi> A provocation it muſt be of grand and fundamentall importance, which if it cannot be otherwiſe or not ſo conveniently redreſſed, may un<g ref="char:EOLhyphen"/>dergoe this kinde of <hi>cure;</hi> which in caſes of extremity hath been practiſed by <hi>Nations.</hi>
+               </p>
+               <p>Smaller inconveniencies may be redreſſed without the <hi>abo<g ref="char:EOLhyphen"/>lition</hi> of a <hi>form, viz.</hi> by preſcribing limits to thoſe <hi>Rulers,</hi> who have abuſed their <hi>Power,</hi> which under pain of guilt they may not exceed; For the whole body of the <hi>People</hi> is above their <hi>Ruler,</hi> whether one or more.</p>
+               <p>Not to ſpend much time herein, I ſhal conclude this with the argument of the <hi>Biſhop of Burgen</hi> in the <hi>Councel of Baſil</hi> (which was in the reign of our <hi>Henry</hi> the 6<hi rend="sup">th</hi>) where diſputing againſt the authority of the <hi>Pope</hi> above Councels, he urgeth this argument, that as <hi>Kingdoms</hi> are and ought to be above <hi>Kings,</hi> ſo is a <hi>Councel</hi> above a <hi>Pope.</hi> So that former ages have had ſome light, as touching the Office and duty of a chiefe <hi>Ruler</hi> or <hi>King</hi> and would have been able to deſcry the flattery of thoſe, who aſcribe ſo much <hi>Majeſtie</hi> and Sacredneſſe either to <hi>Man,</hi> or <hi>Men.</hi>
+               </p>
+               <p>For are not <hi>Rulers</hi> themſelves under a <hi>Law?</hi> are they not accountable for what they do? Are they not ſubject to frailties like other men? Are we not all derived from one common <hi>Stock?</hi> Is not every man born <hi>free?</hi> when wee aſcribe ſo much to <hi>Man,</hi> wee detract from the praiſe and glory of God.</p>
+               <p>True <hi>Majeſty</hi> is in the ſpirit and conſiſts in the Divine <hi>I<g ref="char:EOLhyphen"/>mage</hi> of <hi>God</hi> in the <hi>minde,</hi> which the Princes of the World comming ſhort off, have ſupplyed its defect with outward badges of <hi>Fleſhly honour;</hi> which are but <hi>Empty ſhews</hi> and <hi>carnall appearances,</hi> when void of the <hi>ſubſtance.</hi>
+               </p>
+               <p>But as weake as they are, they have dazled our eyes, through the darkneſſe which is in us, when we our ſelves ſhall be raiſed up to an inward <hi>glory,</hi> we ſhall then be able to judge of that <hi>Majeſty</hi> and <hi>Glory,</hi> which reſts upon another.</p>
+            </div>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
